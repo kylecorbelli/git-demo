@@ -1,5 +1,10 @@
 /* This is a first attempt at adding a new file to a new directory inside a repository */
 
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
   font-family: calibri, arial, sans-serif;
 }
